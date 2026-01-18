@@ -7,5 +7,5 @@ print("Nombre: Joel Alamillo Juárez")
 print("Edad: 38 años")
 
 #mostramos el país
-# print("País: México")
+print("País: México")
 
